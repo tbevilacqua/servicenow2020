@@ -6,14 +6,14 @@ if (current.request.requested_for.location == "Atran"){  // sys id needed for lo
 
 }
 else {
-    if (current.request.requested_for.location == "Branford"){
+    if (current.request.requested_for.location == "1542a025db18d300c5215878dc9619b3"){   //sys_id of rlocation of Branford
         task.setValue('assignment_group',"Stock - IT - Branford"); //sysid 94efd848dbcb841068b5797b8c9619fb
 
     }
     else {
           if (current.request.requested_for.location == "Union Square"){
               //task.setValue('assignment_group',"Stock - IT - Union Square"); //sysid ac10e808dbcb841068b5797b8c9619ce
-              task.setValue('assignment_group',"ac10e808dbcb841068b5797b8c9619ce"); 
+              task.setValue('assignment_group',"ac10e808dbcb841068b5797b8c9619ce");
 
           }
           else {
