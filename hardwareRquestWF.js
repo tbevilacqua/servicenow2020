@@ -13,7 +13,7 @@ else {
     else {
           if (current.request.requested_for.location == "Union Square"){
               //task.setValue('assignment_group',"Stock - IT - Union Square"); //sysid ac10e808dbcb841068b5797b8c9619ce
-              task.setValue('assignment_group',"ac10e808dbcb841068b5797b8c9619ce");
+              task.setValue('assignment_group',"ac10e808dbcb841068b5797b8c9619ce"); 
 
           }
           else {
