@@ -15,9 +15,9 @@ else {
 
     }
     else {
-//Union Square
-          if (current.request.requested_for.location == "5483d233db4ac34024f77b5b8c96194d"){
-            task.setValue('assignment_group',"ac10e808dbcb841068b5797b8c9619ce"); //    Stock - IT - Union Square sysid
+//SLAB
+          if (current.request.requested_for.location == "9510b063db43881024f77b5b8c9619fe"){
+            task.setValue('assignment_group',"ac10e808dbcb841068b5797b8c9619ce"); //    Stock - IT - SLAB sysid
 
           }
           else {
