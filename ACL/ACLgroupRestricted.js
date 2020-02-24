@@ -17,7 +17,7 @@ if(checkRestricted != restrictedGroupTypeSysID && (gs.hasRole('user_admin') || c
 }
 
 //First Restricted Group, Legal Hold
-if(current.group == legalHoldSysID && (gs.hasRole('legalHoldTestRole') || current.group.manager == gs.getUserID())){
+if(current.group == legalHoldSysID && (gs.hasRole('legalHold') || gs.hasRole('asset') || current.group.manager == gs.getUserID())){
       answer = true; //Allow access to Legal Hold if user has legalHoldTestRole role or is group manager only.
 
 }
