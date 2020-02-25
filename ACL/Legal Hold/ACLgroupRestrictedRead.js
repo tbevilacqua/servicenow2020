@@ -1,4 +1,4 @@
-//Script to restrict access to groups via ACL
+//Script to restrict access to groups via ACL.  Table is sys_user_grmember
 
 var answer = false; //Restrict access by default
 

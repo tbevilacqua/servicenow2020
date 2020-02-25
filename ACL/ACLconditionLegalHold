@@ -1,8 +1,0 @@
-var answer = false; //Restrict access by default
-if(current.group != "Legal Hold" && (gs.hasRole('user_admin') || current.group.manager == gs.getUserID())){
-   answer = true; //Allow access if user has 'user_admin' role or is group manager, but not for Legal Hold
-
-if(current.group == "Legal Hold" && (gs.hasRole('legalHoldTestRole') || current.group.manager == gs.getUserID())){
-      answer = true; //Allow access if user has 'user_admin' role or is group manager, but not for Legal Hold
-
-}
