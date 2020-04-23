@@ -21,23 +21,23 @@ To give context, only 8 thousands years ago did people developed the gene to all
 That does not mean that competition between people evaporated.  
 I will not be perpetuating the myth of the noble savage.
 But it did change into something we would easily recognize.
-In a collective, deception and manipulation can be used to further an individual's interest without disrupting the whole society.  
+In a collective, deception and manipulation can be used to further an individual's interest without disrupting society.  
+
 Secret acts of infidelity seem the most direct evolutionary route.  
-We even have a derisive term for the victim of the deception - a cuckhold.    
+Perpetrated by both men and women.
 The other obvious path is calories.
 In a hunter gather society food was pooled.  
-Eating in secret would probably be equally tempting as taboo
-At an early age, I tried use deception to gain favor over a sibling
+Eating in secret would probably be equally tempting as taboo.
 
 While its true that humans sometimes will lock horns in outright combat, this is not as common as simply jockeying for position within a society.  
-And typical murders happened between small clans of people, often out of revenge.  
-But killing within the group would not be less tolerated and risked swift expulsion or death.  
+ And murder was a leading cause of death, though it was rarely the domestic occurrence it has become in modern society.   
+When we lived in small clans, killing was common when confronted by an outsider, often out of revenge.  
+But killing within the group would be less tolerated and risked swift expulsion or death.  
 
-In our current pandemic, the people stocking up on ammo are not preforming better than the people manipulating peoples fear for profit.
 
 This deceitfulness was not good for the collective, so the groups that could ferret out the worst liars were more likely to survive.
 
-So the theory goes that an evolutionary arms race began between the people who lie and people who can detect lying.
+The theory is that an evolutionary arms race began between the people who lie and people who can detect lying.
 As this match played out over centuries, pitting the deceitful against those with and acute olfactory sense for bullshit, a simple winning strategy appeared:
 Honesty.
 And this is evolutionary backbone of morality.
@@ -78,19 +78,21 @@ This version includes a key turn of phrase, "look on."
 The presumption is that evil will be self-evident.
 That the truth is plain for all.
 
-Sexual assault is rarely committed in broad daylight in the public square.
+Sexual assault is rarely committed in broad daylight, in the public square.
 And therefore the presumption that someone else knows the truth is complicated
 
 Alyssa Milano is going through this right now, with regards to accusation against Biden.
-The person who kicked off this movement is accused of knowing the truth, but silencing her own conscience for the privileged status she enjoys in the feminist wing of the Democratic Party and her left leaning community in California.
+The person who kicked off this movement is now herself accused of knowing the truth, but silencing her own conscience for the privileged status she enjoys in the feminist wing of the Democratic Party and her left leaning community in California.
 Essentially this becomes an unwinnable purity contest.  
 "Believe all Women," fits nicely on a bumper sticker and is clearly in opposition to patriarchal norms.
 But its not morally superior to "Believe all Men."
 Seeking truth is the high ground in this fight.
 
-Now drop the accusation that the truth is evident, and look again that the other option.
-Our patriarchal culture and our privilege clouded our evolutionary skill to detect the lie.
+Now drop the accusation that the truth in any one circumstance is evident, and look again that the other option:
+Our patriarchal culture and our privilege has clouded our evolutionary skill to detect the lie.
 Our collective and unconscious bias is partly to blame.
+We've already accepted that construct with regards to race.
+Institutional racism can exists without conscious racists, and its effects
 
 And in that sense, "Believe all Women" has a definite purpose at an inflection point in time.
 It is an opportunity to recalibrate our bullshit detectors.
